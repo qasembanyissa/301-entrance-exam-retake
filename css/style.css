@@ -1,0 +1,47 @@
+#Header{
+    background-color: #f13b04e3;
+    padding:  20px;
+}
+#H1{
+    font-size: xx-large;
+    text-align: center;
+    color: aliceblue;
+
+}
+#Submiteed{
+    background-color: #f13b04e3;
+}
+#Form{
+    margin-top: 50px;
+    margin-left: 250px;
+}
+#Label1{
+
+    font-size: 25px;
+}
+#Label2{
+    font-size: 25px;
+
+}
+#Submiteed{
+    margin-left: 338px;
+    padding: 10px;
+}
+.DIV
+{
+    border: rgb(44, 44, 165);
+    background-color: rgb(104, 35, 35);
+    font-size: 20px;
+    padding-left: 250px;
+    padding-top: 15px;
+}
+#Quantity{
+    padding-left: 250px;
+    padding-top: 15px;
+}
+#SEL{
+    font-size: 20px;
+    padding-left: 250px;
+    padding-top: 15px;
+
+}
